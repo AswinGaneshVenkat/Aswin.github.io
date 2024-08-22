@@ -2,4 +2,4 @@
 ## Github workshop
 ### Adding a picture
 
-<img src=Screenshot (1).png />
+<img src="Screenshot (1).png" />
